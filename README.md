@@ -2,4 +2,8 @@
 
 __Porject SetUp__<br>
 
-``npm i``
+``npm i``<br>
+
+__StartUp__<br>
+
+``npm start``
